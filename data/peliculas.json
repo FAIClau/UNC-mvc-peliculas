@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "titulo": "Volver al futuro",
+        "genero": "Ciencia ficción",
+        "anio": 1985,
+        "descripcion": "Marty McFly viaja accidentalmente al pasado."
+    },
+    {
+        "id": 2,
+        "titulo": "Matrix",
+        "genero": "Ciencia ficción",
+        "anio": 1999,
+        "descripcion": "Un programador descubre que la realidad no es lo que parece."
+    },
+    {
+        "id": 3,
+        "titulo": "El gran pez",
+        "genero": "Drama",
+        "anio": 2003,
+        "descripcion": "Un hijo intenta conocer la verdadera historia de su padre."
+    }
+]
